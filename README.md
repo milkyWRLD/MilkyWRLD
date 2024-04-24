@@ -1,10 +1,10 @@
-![Sidelnikov Artyom Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Sidelnikov Artyom Singh Banner](./assets/MilkyWRLD.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Приветствую на моём аккаунте!</h2>
 
 <!-- ## 👋 &nbsp;Приветствую на моём аккаунте! -->
 
-### 👨🏻‍💻 &nbsp;Обо мне  
+### 👨🏻‍💻 &nbsp;Обо мне
 
 💡 &nbsp;Мне нравится изучать новые технологии и разрабатывать программные решения.\
 🎓 &nbsp;В настоящее время я обучаюсь в Санкт-Петербурге, в государственном университете телекоммуникаций им. проф. М. А. Бонч-Бруевича.\
@@ -30,7 +30,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
 
 ### ⚙️ &nbsp;GitHub Аналитика
 
